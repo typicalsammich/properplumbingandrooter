@@ -1,0 +1,1 @@
+const m=document.querySelector('.menu'),l=document.querySelector('.links'),c=document.querySelector('.mobile-call');if(m)m.onclick=()=>l.classList.toggle('open');if(c)window.addEventListener('scroll',()=>c.classList.toggle('show',scrollY>240));

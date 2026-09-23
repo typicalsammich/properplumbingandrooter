@@ -1,0 +1,1 @@
+Static website ready for GitHub/Vercel. IMPORTANT: the brief only confirms LA/OC County coverage. The individual city pages are a starter SEO set inferred from that broad coverage; verify each city is actually served before publishing. Replace/add real work photos when available.
